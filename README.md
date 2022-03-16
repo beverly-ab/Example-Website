@@ -1,2 +1,2 @@
-# Exanple-Website
+# Example-Website
  An example of my work
